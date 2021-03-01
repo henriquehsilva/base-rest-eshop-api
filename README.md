@@ -1,4 +1,4 @@
-# GraphQl EShop API Node Project
+# Rest EShop API Node Project
 
 <hr />
 
