@@ -1,4 +1,4 @@
-# Rest EShop API Node Project
+# EShop Rest-API Node Project
 
 <hr />
 
